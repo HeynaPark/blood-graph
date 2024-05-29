@@ -6,3 +6,9 @@
  | 사용 예시
 
 ![whole_graph](https://github.com/HeynaPark/blood-graph/assets/90448406/ffe4545a-671a-47f2-9b5b-1c6a32411e96)
+
+
+
+| Version 2
+
+![each_graph](https://github.com/HeynaPark/blood-graph/assets/90448406/78c69f6d-2239-45ef-96b0-88b9208b597a)
